@@ -1,7 +1,7 @@
 # yts
 Youtube Playback Sync
 
-[![](art/install.png)](https://raw.githubusercontent.com/fcannizzaro/yts/master/art/yts.user.js)
+[![](art/install.png)](https://raw.githubusercontent.com/fcannizzaro/yts/master/yts.user.js)
 
 ## Setup
 1. Setup a [Firebase Project](https://console.firebase.google.com), Realtime Database
